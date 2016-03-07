@@ -1,0 +1,54 @@
+*{
+	padding:0;
+	margin:0;
+	list-style:none;
+	outline:none;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.campo{
+	border-radius: 6px;
+	border: 1px solid black;
+	background-color: #eeeeee;
+	margin: 10px 15px;
+	width: 65%;
+	height: 30px;
+}
+.botao{
+	display: block;
+	margin: 30px;
+	width: 50%;	
+}
+
+#formulario{
+	width:350px;
+	top:150px;
+	margin: 10px auto;
+	padding: 10px 10px;
+}
+
+#txtResultadoInsercao{
+	margin: 10px auto;
+	display: inline-block;
+	color: #aa00bb;
+}
+#txtResultadoInsercao{
+	font-size: 20px;
+	color: #aa0000;
+	font-weight: bold;
+	position: relative;
+	left: 5%;
+	padding-top: 1%;
+	text-align: center;
+	width: 500px;
+}
+
+h2, p.label{
+	padding: 10px 40px;
+}
+li{
+	padding-bottom: 10px;
+}
+p.linkCadastro{
+	padding-top: 30px;
+}
